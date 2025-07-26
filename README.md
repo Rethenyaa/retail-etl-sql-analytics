@@ -73,7 +73,7 @@ This project demonstrates how to build a simple but powerful ETL pipeline using 
 
 ## 🔗 Author
 
-**Rethenyaa M**  
+**Rethenya M**  
 Aspiring Data Engineer | GitHub: [@Rethenyaa](https://github.com/Rethenyaa)
 
 ---
