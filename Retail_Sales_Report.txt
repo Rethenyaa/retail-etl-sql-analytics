@@ -1,0 +1,17 @@
+
+🛒 Retail Sales Report
+========================
+
+📦 Total Transactions: 406829
+🧑‍💼 Unique Customers: 4372
+📄 Unique Products Sold: 3896
+💰 Total Revenue: £8300065.81
+
+🌍 Top Country by Revenue: United Kingdom
+🏆 Top Selling Product: WORLD WAR 2 GLIDERS ASSTD DESIGNS
+
+✅ Insights:
+- Most sales come from United Kingdom
+- The best-selling product is "WORLD WAR 2 GLIDERS ASSTD DESIGNS"
+- Business can focus on top 10 countries and products for maximum gain
+
