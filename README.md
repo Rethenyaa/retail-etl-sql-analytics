@@ -65,11 +65,7 @@ This project demonstrates how to build a simple but powerful ETL pipeline using 
 
 ---
 
-## 💡 Resume Description Example
 
-> Built an end-to-end ETL and analytics pipeline using Python and SQLite on the UCI Online Retail dataset; cleaned 50K+ records, performed SQL-based analysis, created revenue dashboards, and auto-generated business reports using Google Colab.
-
----
 
 ## 🔗 Author
 
